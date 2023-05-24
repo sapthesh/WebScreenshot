@@ -1,8 +1,4 @@
-<div align="right">
-  Language:
-  English
-  <a title="中文" href="README_CN.md">中文</a>
-</div>
+## WEB SCREENSHOT
 
 <h1 align="center"><a href="https://github.com/lete114/WebStack-Screenshot" target="_blank">WebStack-Screenshot</a></h1>
 <p align="center">Website Screenshot API </p>
@@ -20,7 +16,7 @@ Just some simple screenshot operations, if you have any needs, or want to partic
 
 ### Vercel Free Deployment
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lete114/WebStack-Screenshot/tree/Vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sapthesh/WebScreenshot/tree/Vercel)
 
 ### Installation
 
