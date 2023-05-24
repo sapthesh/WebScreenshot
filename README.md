@@ -1,11 +1,11 @@
 ## WEB SCREENSHOT
 
-<h1 align="center"><a href="https://github.com/lete114/WebStack-Screenshot" target="_blank">WebStack-Screenshot</a></h1>
+<h1 align="center"><a href="https://github.com/sapthesh/WebScreenshot" target="_blank">WebStack-Screenshot</a></h1>
 <p align="center">Website Screenshot API </p>
 
 <p align="center">
-    <a href="https://github.com/Lete114/WebStack-Screenshot/releases/"><img src="https://img.shields.io/npm/v/webstack-screenshot?logo=npm" alt="Version"></a>
-    <a href="https://github.com/Lete114/WebStack-Screenshot/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/webstack-screenshot" alt="MIT License"></a>
+    <a href="https://github.com/sapthesh/WebScreenshot"><img src="https://img.shields.io/npm/v/webstack-screenshot?logo=npm" alt="Version"></a>
+    <a href="https://github.com/sapthesh/WebScreenshot/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/webstack-screenshot" alt="MIT License"></a>
 </p>
 
 ## Introduction
