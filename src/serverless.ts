@@ -33,7 +33,7 @@ export = async (req: IncomingMessage, res: ServerResponse) => {
     if (req.url === '/favicon.ico') return res.end()
     const data: typeOptions = (await bodyData(req)) as typeOptions
 
-    const projectUrl = 'https://github.com/Lete114/WebStack-Screenshot#%E5%B1%9E%E6%80%A7'
+    const projectUrl = 'https://github.com/sapthesh/WebScreenshot'
     if (!data.url) {
       const msg = { msg: 'URL not detected , Using parameters: ' + projectUrl }
       return res.end(JSON.stringify(msg))
