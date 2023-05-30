@@ -1,6 +1,6 @@
 ## WEB SCREENSHOT
 
-<h1 align="center"><a href="https://github.com/sapthesh/WebScreenshot" target="_blank">WebStack-Screenshot</a></h1>
+<h1 align="center"><a href="https://github.com/sapthesh/WebScreenshot" target="_blank">WebScreenshot</a></h1>
 <p align="center">Website Screenshot API </p>
 
 <p align="center">
