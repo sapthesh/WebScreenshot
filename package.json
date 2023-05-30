@@ -1,7 +1,7 @@
 {
-  "name": "webstack-screenshot",
+  "name": "webscreenshot",
   "version": "2.0.0-beta.3",
-  "description": "📸网站截图 API | Website Screenshot API ",
+  "description": "📸 Website Screenshot API ",
   "main": "dist/src/main.js",
   "scripts": {
     "build": "tsc",
@@ -27,11 +27,11 @@
     "dist"
   ],
   "bugs": {
-    "url": "https://github.com/Lete114/WebStack-Screenshot/issues"
+    "url": "https://github.com/sapthesh/WebScreenshot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lete114/WebStack-Screenshot.git"
+    "url": "git+https://github.com/sapthesh/WebScreenshot.git"
   },
   "dependencies": {
     "body-data": "^1.0.6",
